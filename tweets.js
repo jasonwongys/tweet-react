@@ -20,7 +20,7 @@ var tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -74,7 +74,6 @@ var tweets = [
       "default_profile": false,
       "default_profile_image": false,
       "following": true,
-      "follow_request_sent": false,
       "notifications": false,
       "translator_type": "none"
     },
@@ -110,7 +109,7 @@ var tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -200,7 +199,7 @@ var tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -290,7 +289,7 @@ var tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
